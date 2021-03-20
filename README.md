@@ -1,6 +1,7 @@
 # **Airplanes Image Classification :** 
 
-## Deep Learning project for airplanes image classification
+## Deep Learning project for airplanes image classification.
+
 ### Military planes :
 <li>Dassault Rafale</li> 
 <li>Lockheed Martin F-35 Lightning II</li> 
