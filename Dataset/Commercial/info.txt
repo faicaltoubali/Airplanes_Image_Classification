@@ -1,7 +1,0 @@
-Commercial planes:
-
--Airbus_A380
--Airbus_Belluga
--Boeing_747
--Boeing 777
--Falcon_8x
