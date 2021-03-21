@@ -4,7 +4,7 @@ import os
 def main(): 
   
     for count, filename in enumerate(os.listdir("F-35")): 
-        dst ="Commercial-F35-" + str(count+1) + ".jpg"
+        dst ="Military-F35-" + str(count+1) + ".jpg"
         src ='F-35/'+ filename 
         dst ='F-35/'+ dst 
           
