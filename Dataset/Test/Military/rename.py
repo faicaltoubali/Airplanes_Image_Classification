@@ -3,10 +3,10 @@ import os
 # Function to rename multiple files 
 def main(): 
   
-    for count, filename in enumerate(os.listdir("F-35")): 
-        dst ="Military-F35-" + str(count+1) + ".jpg"
-        src ='F-35/'+ filename 
-        dst ='F-35/'+ dst 
+    for count, filename in enumerate(os.listdir("Rafale")): 
+        dst ="Military-Rafale-" + str(count+1) + ".jpg"
+        src ='Rafale/'+ filename 
+        dst ='Rafale/'+ dst 
           
         # rename() function will 
         # rename all the files 
