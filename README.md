@@ -1,7 +1,7 @@
 # **Airplanes Image Classification :** 
 
 ## Deep Learning project for airplanes image classification.
-![image_info](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgnitekram.fr%2Fintelligence-artificielle-futur-marketing%2F&psig=AOvVaw0UttNR9U7JI821JWJ3RDkP&ust=1616525856770000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPit6aDKxO8CFQAAAAAdAAAAABAS)
+![image_info](https://www.pivotalindia.com/images/aimlMain.jpg)
 
 ### Military planes :
 <li>Dassault Rafale</li> 
